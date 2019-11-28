@@ -6,6 +6,7 @@ var endM;
 var endS;
 
 function setup() {
+	//git test
 	createCanvas(600, 600);
 }
 
